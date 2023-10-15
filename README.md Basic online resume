@@ -1,0 +1,139 @@
+# CodeClause-internship
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Basic Online Resume</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        .right {
+            float: right;
+        }
+
+        .eligibility {
+            text-align: center;
+            border: solid
+        }
+
+        .end {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Resume</h1>
+            <hr>
+        </div>
+        <div>
+            <div></div>
+            <div class="right"> <img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc272hT5ptP3gKSldTt1Ls6av5AYxD08MSQ&usqp=CAU">
+            </div>
+        </div>
+        <div class="personal">
+            <h3 class="name"><u>AYUSHI DHARMPAL MASKE</u></h3>
+            <div>
+                <p1>Christ road, plot no.50 <br>
+                Mahal, Nagpur</p1>
+                <div class="email">
+                    Email id: ayushimaske16@gmail.com
+                </div>
+                <div class="contact">
+                    Contact No. : ********62
+                </div>
+            </div>
+            <div class="certifications">
+                <h3 class="certifications"><u>Certifications:</u></h3>
+                <ol>
+                    <li>Blockchain Technology</li>
+                    <li>Introduction to Ethical Hacking</li>
+                    <li>Cyber Laws</li>
+                    <li>Basics of HTML/CSS</li>
+                </ol>
+            </div>
+            <div class="skills">
+                <h3 class="skills"><u>Skills And Technology:</u></h3>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Java script</li>
+                    <li>Python</li>
+                    <li>Ethical Hacking</li>
+                </ul>
+            </div>
+            <div class="qualifications">
+                <h3 class="qualification"><u>qualification:</u></h3>
+                <table class="eligibility">
+                    <thead>
+                        <tr>
+                            <th style="border: solid;">SR.NO.</th>
+                            <th style="border: solid;">QUALIFICATION</th>
+                            <th style="border: solid;">PERCENTAGE</th>
+                            <th style="border: solid;">PASSING YEAR</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="border: solid;">1</td>
+                            <td style="border: solid;">10th</td>
+                            <td style="border: solid;">--%</td>
+                            <td style="border: solid;">2018</td>
+                        </tr>
+                        <tr>
+                            <td style="border: solid;">2</td>
+                            <td style="border: solid;">12th</td>
+                            <td style="border: solid;">--%</td>
+                            <td style="border: solid;">2020</td>
+                        </tr>
+                        <tr>
+                            <td style="border: solid;">3</td>
+                            <td style="border: solid;">B.E.(CSE[IOT])</td>
+                            <td style="border: solid;">-</td>
+                            <td style="border: solid;">Expected 2024</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="details">
+                <h3 class="personalDetails"><u>Personal Details:</u></h3>
+                <table style="padding: 20px;">
+                    <tr>
+                        <td>NAME:</td>
+                        <td>AYUSHI D. MASKE</td>
+                    </tr>
+                    <tr>
+                        <td>FATHER NAME:</td>
+                        <td>DHARMPAL R. MASKE</td>
+                    </tr>
+                    <tr>
+                        <td>D.O.B:</td>
+                        <td>DD-MM-YYYY</td>
+                    </tr>
+                    <tr>
+                        <td>GENDER:</td>
+                        <td>Female</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="selfdeclaration">
+                <h3 class="declaration"><u>Declaration:</u></h3>
+                I here by declare all the above mention are correct as per my knowledge.
+            </div>
+            <div class="date">
+                <h4>Date:</h4>
+            </div>
+            <div class="place">
+                <h4>Place:</h4>
+            </div>
+            <div class="end">
+                <b>Ayushi Maske</b>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
